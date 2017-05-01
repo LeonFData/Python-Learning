@@ -10,6 +10,7 @@ Course: Python Data Structures
         Tuples
 
 Course: Using Python to Access Web Data
+
         Regular Expressions
         Networks and Sockets
         Programs that Surf the Web
@@ -17,6 +18,7 @@ Course: Using Python to Access Web Data
         JSON and the REST Architecture
         
 Course: Using Databases with Python
+
         Basic Structured Query Language
         Data Models and Relational SQL
         Many-to-Many Relationships in SQL
