@@ -49,12 +49,12 @@ soup = bs(page, "html.parser")
 spans = soup('span')
 print(spans)
 
-##numbers = []
-##
-##for span in spans:
-##    numbers.append(int(span.string))
-##
-##print (sum(numbers))
+numbers = []
+
+for span in spans:
+    numbers.append(int(span.string))
+
+print (sum(numbers))
 
 total = 0
 for span in spans:
